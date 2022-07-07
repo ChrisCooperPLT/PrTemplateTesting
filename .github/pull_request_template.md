@@ -1,6 +1,6 @@
 ## Ticket
 
-(URL to the ticket...)
+(URL of the ticket...)
 
 ## What is the feature/fix?
 
