@@ -9,6 +9,10 @@ the solution that is being put in place --->
 
 ## Screenshots (Optional)
 
+| Before | After |
+| :----: | :---: |
+|        |       |
+
 ## Other notes (Optional)
 
 <!--- Any additional information that would be useful to a reviewer --->
@@ -16,5 +20,6 @@ the solution that is being put in place --->
 ## Checklist
 
 - [ ] I updated|added unit tests related to these changes (if possible).
-- [ ] It works on all locales (including RTL support).
-- [ ] Requires DevOps changes
+- [ ] The content is translated for all locales.
+- [ ] It supports both LTR and RTL.
+- [ ] Requires DevOps changes.
