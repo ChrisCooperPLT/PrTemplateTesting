@@ -7,12 +7,6 @@
 <!--- A short summary of the feature or fix that is required and
 the solution that is being put in place --->
 
-## Screenshots (Optional)
-
-| Before | After |
-| :----: | :---: |
-|        |       |
-
 ## Other notes (Optional)
 
 <!--- Any additional information that would be useful to a reviewer --->
@@ -23,3 +17,9 @@ the solution that is being put in place --->
 - [ ] The content is translated for all locales.
 - [ ] It supports both LTR and RTL.
 - [ ] Requires DevOps changes.
+
+## Screenshots (Optional)
+
+| Before | After |
+| :----: | :---: |
+|        |       |
