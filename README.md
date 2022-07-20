@@ -1,2 +1,3 @@
 # PR Template Testing
-A small repository to test PR Templates
+
+A small repository that now includes a github PR template.
